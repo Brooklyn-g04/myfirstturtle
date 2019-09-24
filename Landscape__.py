@@ -53,5 +53,6 @@ Rachel.end_fill()
 Chandler.forward(300)
 
 Chandler.circle(15)
+Chandler.forward(100)
 
 turtle.exitonclick()
