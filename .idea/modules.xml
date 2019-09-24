@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../landscape_project/.idea/landscape_project.iml" filepath="$PROJECT_DIR$/../landscape_project/.idea/landscape_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my third turtle.iml" filepath="$PROJECT_DIR$/.idea/my third turtle.iml" />
     </modules>
   </component>
